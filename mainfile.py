@@ -4,7 +4,7 @@ import json
 from tkinter.filedialog import asksaveasfile
  
 window = Tk()
-window.geometry('540x300')
+window.geometry('400*400')
 window.title('Data Entry')
 
  
